@@ -38,7 +38,7 @@ def isRE(file_path):
     return idnum_regexp.findall(read_pdf(file_path))
 
 def isPDF(file_path):
-    pdf_regexp = re.compile(r'.\.tga$')
+    pdf_regexp = re.compile(r'.\.pdf$')
     return pdf_regexp.match(file_path)
 
 def MsgBox(file_path):
