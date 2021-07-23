@@ -87,7 +87,7 @@ def chooseFile(label_set):
 
 def sendMail(to, subject, body):
     mail_sender = 'forjy4815@gmail.com'
-    mail_pw = 'MY_KEY'
+    mail_pw = 'ubpricziaredhpya'
     mail_reciever = ttk.Entry.get(to)
     mail_subject = ttk.Entry.get(subject)
     mail_body = ttk.Entry.get(body)
@@ -154,7 +154,11 @@ def image_base(file_path):
 
         res += text[i]
         i = i+1
-    return str(res)
+
+    pattern = re.compile(r'\s+')
+    return re.sub(pattern, '', str(res))
+    # print(str(res).)
+    # return str(res)
 
 def moveUSB(file_path, usbPath):
         shutil.move(file_path, usbPath)
