@@ -1,0 +1,60 @@
+Detection Date: 2021-07-24 06:43:58.269997
+Detection type: COPY TO USB
+Detected Mode: None
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/undetected.pdf
+Matched Data: , Total 0 item(s)
+
+Detection Date: 2021-07-24 06:45:10.782819
+Detection type: COPY TO USB
+Detected Mode: None
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/sample3.pdf
+Matched Data: , Total 0 item(s)
+
+Detection Date: 2021-07-24 06:45:20.929843
+Detection type: COPY TO USB
+Detected Mode: Text-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/sample2.pdf
+Matched Data: ['000101-4031313', '000101-2031313', '740111-2525252'], Total 3 item(s)
+
+Detection Date: 2021-07-24 06:46:29.979536
+Detection type: COPY TO USB
+Detected Mode: Image-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/un.pdf
+Matched Data: ['000126-*******'], Total 1 item(s)
+
+Detection Date: 2021-07-24 06:48:57.738131
+Detection type: COPY TO USB
+Detected Mode: Text-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/sample2.pdf
+Matched Data: ['000101-4031313', '000101-2031313', '740111-2525252'], Total 3 item(s)
+
+Detection Date: 2021-07-24 07:00:49.424729
+Detection type: EMAIL
+Detected Mode: Image-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/imagesample.pdf
+Matched Data: ['000126-*******'], Total 1 item(s)
+
+Detection Date: 2021-07-24 20:06:18.118527
+Detection type: EMAIL
+Detected Mode: Text-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/sample1.pdf
+Matched Data: ['000126-4031316', '210213-2035314'], Total 2 item(s)
+
+Detection Date: 2021-07-24 20:08:08.497495
+Detection type: EMAIL
+Detected Mode: Image-Based
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/imagesample.pdf
+Matched Data: ['000126-*******', '000126-*******', '000126-*******', '000126-*******', '000126-*******'], Total 5 item(s)
+
+Detection Date: 2021-07-24 20:10:46.538675
+Detection type: COPY TO USB
+Detected Mode: None
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/nothing.pdf
+Matched Data: , Total 0 item(s)
+
+Detection Date: 2021-07-24 20:12:20.473208
+Detection type: COPY TO USB
+Detected Mode: None
+Matched File: C:/Users/82107/OneDrive - 서울여자대학교/BoB 10th/04. Assignment Stack/06 DLP/nothing.pdf
+Matched Data: , Total 0 item(s)
+
