@@ -1,4 +1,4 @@
-# myDLP_text-based
+# myDLP (text + OCR)
 made by BoB 10th 디지털포렌식트랙 `강정윤`, `박준성` 교육생
 
 # Overview
